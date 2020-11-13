@@ -1,0 +1,24 @@
+
+h1{
+	font-size: 6vw;
+	margin-left: 30%;
+	color: red;
+}
+td {
+	width: 14%;
+}
+
+.tyt{
+	color: blue;
+	background: pink;
+}
+
+table {
+	border-style: dashed;
+}
+ul{
+	font-size: 30px;
+}
+body {
+background: white;
+}
